@@ -24,7 +24,7 @@ pip3 install triton==3.2.0
 ```
 pip install "sglang[all]"
 pip install gptqmodel --no-build-isolation -v
-ip install auto-gptq
+pip install auto-gptq
 pip install optimum
 pip install vllm==0.8.2
 ```
