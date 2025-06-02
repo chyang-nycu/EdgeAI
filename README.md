@@ -31,5 +31,6 @@ pip install vllm==0.8.2
 ### Inference
 ```
 huggingface-cli login
-python3 main.py
+python3 result.py
 ```
+備註：result.py 有做更動
